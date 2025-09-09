@@ -331,7 +331,6 @@ const setFilter = (type: 'all' | 'active' | 'completed') => {
                 </div>
             </div>
 
-            <!-- Rest of your template remains the same -->
             <!-- Add Todo -->
             <div class="bg-white rounded-xl shadow-md p-4 sm:p-6 mb-6 transition-all duration-300 hover:shadow-lg">
                 <div class="flex flex-col sm:flex-row gap-3">
